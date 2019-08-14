@@ -4,6 +4,3 @@
 def parrot(string = "Squak")
   return puts string
 end
-
-  
-  
